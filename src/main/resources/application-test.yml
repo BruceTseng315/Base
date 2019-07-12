@@ -1,0 +1,45 @@
+swagger:
+  enable: false
+
+spring:
+    datasource:
+      type: com.alibaba.druid.pool.DruidDataSource
+      driver-class-name: com.mysql.jdbc.Driver
+      name: cmmi
+      url: jdbc:mysql://localhost:3306/viva_stanford
+      username: root
+      password: kevin123!
+      maxActive: 20
+      initialSize: 5
+      maxWait: 12000
+      minIdle: 1
+      timeBetweenEvictionRunsMillis: 12000
+      testOnBorrow: false
+      validationQuery: select 1
+      filters: wall,stat
+      removeAbandoned: true
+      removeAbandonedTimeout: 300
+
+    thymeleaf:
+      mode: HTML
+      prefix: classpath:/templates/
+      suffix: .html
+      encoding: UTF-8
+      enabled: true
+
+
+jedis:
+  host: 127.0.0.1
+  port: 6379
+
+server:
+  host: localhost
+  port: 8080
+  hosturl: localhost:8080
+  tomcat:
+    uri-encoding: utf-8
+  debug: true
+
+accessKeyId: LTAI97pIf7S2cVBd
+accessKeySecret: bTLNI8xVTCQpPWkDW1FegDVEa6sSAm
+

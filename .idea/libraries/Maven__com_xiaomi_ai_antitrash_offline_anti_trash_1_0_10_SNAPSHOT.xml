@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.xiaomi.ai.antitrash:offline-anti-trash:1.0.10-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/xiaomi/ai/antitrash/offline-anti-trash/1.0.10-SNAPSHOT/offline-anti-trash-1.0.10-20200210.040401-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/com/xiaomi/ai/antitrash/offline-anti-trash/1.0.10-SNAPSHOT/offline-anti-trash-1.0.10-20200210.040401-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/xiaomi/ai/antitrash/offline-anti-trash/1.0.10-SNAPSHOT/offline-anti-trash-1.0.10-20200210.040401-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

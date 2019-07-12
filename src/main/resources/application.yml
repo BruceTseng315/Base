@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: test
+  jackson:
+    serialization:
+      write-dates-as-timestamps: true #timestamp类型返回long型给前端
