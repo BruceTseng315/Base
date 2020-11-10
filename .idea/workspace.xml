@@ -20,61 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82b1c086-f24b-4953-b957-ed5f9497c8ab" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_74.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_xiaomi_ai_antitrash_offline_anti_trash_1_0_10_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_xiaomi_ai_api_spec_java_0_0_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_xiaomi_ai_nlp_nlp_lattice_1_0_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka_log/Log-2020-08-04.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka_log/Log-2020-08-17.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka_log/Log-2020-08-19.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka_log/Log-2020-09-23.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka_log/Log-2020-10-15.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka_log/Log-2020-11-06.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka_log/block-2020-08-04.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka_log/block-2020-08-17.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka_log/block-2020-08-19.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka_log/block-2020-09-23.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka_log/block-2020-10-15.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka_log/block-2020-11-06.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kevin/model/request/AntitrashRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kevin/util/HttpClientUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kevin/util/JsonPost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kevin/model/request/AntitrashRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kevin/util/HttpClientUtils$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kevin/util/HttpClientUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/kevin/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base.iml" beforeDir="false" afterPath="$PROJECT_DIR$/base.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kevin/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kevin/DemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kevin/controller/AopForController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kevin/controller/AopForController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kevin/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kevin/controller/TestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-local.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application-local.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kevin/DemoApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kevin/DemoApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kevin/common/OssUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kevin/common/OssUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kevin/config/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kevin/config/SwaggerConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kevin/controller/AllExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kevin/controller/AllExceptionHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kevin/controller/AopForController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kevin/controller/AopForController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kevin/controller/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kevin/controller/TestController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kevin/model/Device.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kevin/model/Device.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kevin/util/HttpUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kevin/util/HttpUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kevin/util/TypeConvertUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kevin/util/TypeConvertUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/kevin/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/kevin/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -478,6 +424,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -514,12 +472,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
